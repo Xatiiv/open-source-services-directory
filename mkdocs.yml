@@ -5,6 +5,8 @@ nav:
     - Funding: categories/funding.md
     - Legal: categories/legal.md
     - Marketing: categories/marketing.md
+    - How To: categories/How To/how-to-start.md
+
 
 theme:
   name: 'material'
