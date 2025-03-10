@@ -1,0 +1,10 @@
+site_name: "Open-Source Startup Services Directory"
+nav:
+  - Home: index.md
+  - Categories:
+    - Funding: categories/funding.md
+    - Legal: categories/legal.md
+    - Marketing: categories/marketing.md
+
+theme:
+  name: 'material'
