@@ -6,3 +6,5 @@ fuck
 slave
 
 noob
+
+kurva
